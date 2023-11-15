@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Currículum de Cristian Raúl Arzate Rios</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #2e86de;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .section-content {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Cristian Raúl Arzate Rios</h1>
+<h2>Ingeniería Industrial</h2>
+
+<div class="section">
+    <div class="section-title">Información de contacto</div>
+    <div class="section-content">
+        <p>Correo electrónico: tuemail@example.com</p>
+        <p>Teléfono: +1234567890</p>
+        <p>Dirección: Ciudad, País</p>
+    </div>
+</div>
+
+<div class="section">
+    <div class="section-title">Educación</div>
+    <div class="section-content">
+        <p><strong>Universidad:</strong> Nombre de tu universidad</p>
+        <p><strong>Carrera:</strong> Ingeniería Industrial</p>
+        <p><strong>Fecha de inicio:</strong> Mes, Año - <strong>Fecha de graduación esperada:</strong> Mes, Año</p>
+        <p><strong>Logros académicos:</strong> (si aplica)</p>
+    </div>
+</div>
+
+<div class="section">
+    <div class="section-title">Experiencia Laboral</div>
+    <div class="section-content">
+        <p><strong>Empresa:</strong> Nombre de la empresa</p>
+        <p><strong>Puesto:</strong> Tu puesto</p>
+        <p><strong>Periodo:</strong> Mes, Año - Mes, Año</p>
+        <p><strong>Descripción:</strong> Breve descripción de tus responsabilidades y logros</p>
+    </div>
+</div>
+
+<div class="section">
+    <div class="section-title">Habilidades</div>
+    <div class="section-content">
+        <p>- Habilidad 1</p>
+        <p>- Habilidad 2</p>
+        <p>- Habilidad 3</p>
+        <!-- Agrega tus habilidades aquí -->
+    </div>
+</div>
+
+</body>
+</html>
